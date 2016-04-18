@@ -2,7 +2,7 @@ An example of how to connect with Google's APIs using 3-legged OAuth.
 
 ##Getting Started
 
-    git clone 
+    git clone https://github.com/DanWilkerson/gs-gapi.git 
     cd ./gs-gapi
     npm install
     node app.js
